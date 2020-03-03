@@ -38,12 +38,12 @@ PHP dalam HTML
 Variabel Biasa
 ![Alt Text](https://github.com/inamyrpl28/PHP-Modul-1-2-/blob/master/modul1%20lat3.PNG)
 
-### Latihan 4
+#### Latihan 4
 
 Variabel dalam kelompok 
 ![Alt Text](https://github.com/inamyrpl28/PHP-Modul-1-2-/blob/master/modul1%20lat4.PNG)
 
-### Latihan 5
+#### Latihan 5
 
 Variabel antar halaman 
 ![Alt Text](https://github.com/inamyrpl28/PHP-Modul-1-2-/blob/master/modul1%20lat5.PNG)
